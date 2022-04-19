@@ -1,7 +1,7 @@
 import type { NextPage } from 'next';
 import { useState } from 'react';
 import Navbar from '../components/navbar';
-import labanStyles from '../styles/Laban.module.css';
+import labanStyles from '../styles/Page.module.css';
 import homeStyles from '../styles/Home.module.css';
 
 const Laban: NextPage = (): JSX.Element => {

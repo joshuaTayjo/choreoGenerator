@@ -1,0 +1,42 @@
+.inputMain {
+    width: 100%;
+    height: 100%;
+    border: none;
+    background-color: transparent;
+    font-size: 1.5em;
+    font-family: 'Archivo', sans-serif;
+    color: #363062;
+    text-align: center;
+    padding: 0;
+    margin-top: 10px;
+    outline: none;
+}
+
+.inputList {
+    width: 100%;
+    height: 100%;
+    border: none;
+    background-color: transparent;
+    font-size: 1.5em;
+    font-family: 'Archivo', sans-serif;
+    color: #363062;
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+    margin-top: 10px;
+    outline: none;
+}
+
+.input {
+    width: 100%;
+    height: 100%;
+    border: none;
+    background-color: transparent;
+    font-size: 1rem;
+    font-family: 'Archivo', sans-serif;
+    color: #363062;
+    text-align: center;
+    padding: 0;
+    margin-top: 10px;
+    outline: none;
+}

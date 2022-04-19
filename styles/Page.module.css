@@ -38,15 +38,15 @@
     width: fit-content;
     height: fit-content;
     padding: 0 15px;
-    color: #2f2a55;
+    color: #363062;
     font-size: 1.5em;
-    border: 2px solid #363062;
+    /*border: 2px solid #363062;*/
     border-radius: 10px;
 }
 
 .subtext{
     font-size: 1em;
-    color: #282449;
+    color: #363062;
     margin-top: 10px;
     padding: 0 15px;
 }
